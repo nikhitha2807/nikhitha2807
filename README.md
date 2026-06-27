@@ -5,7 +5,7 @@
 
 ## 🚀 About Me
 
-- 🎓 B.Tech CSE (CGPA: 9.64) – 2027 Batch  
+- 🎓 B.Tech CSE (CGPA: 9.69) – 2027 Batch  
 - 💻 Building scalable backend systems using Java & Spring Boot  
 - 🤖 Interested in AI/ML & Data Science  
 - 📊 Strong in Data Structures & Algorithms  
